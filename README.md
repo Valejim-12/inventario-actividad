@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # INVENTARIO
 
 ## 1. ¿Qué hace el proyecto?
@@ -44,3 +45,6 @@ Crear la base "inventario" y posterior mente correr el archivo sql.
    http://localhost:8007/
 
 7. El sistema estará listo para registrar y consultar productos.
+=======
+# inventario-actividad
+>>>>>>> 8e105dddebb3b44e834af195445507d870d4682c
