@@ -30,5 +30,4 @@ Para ejecutar el proyecto se necesita:
 4. Abrir una terminal dentro de la carpeta del proyecto.
 5. Ejecutar el comando:
 
-   ```bash
-   php -S localhost:8007
+   
